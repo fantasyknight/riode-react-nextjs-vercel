@@ -1,5 +1,6 @@
 module.exports = {
     // basePath: '/',
-    distDir: 'build',
-    trailingSlash: true
+    // distDir: 'build',
+    // trailingSlash: true
+    reactStrictMode: true,
 }
